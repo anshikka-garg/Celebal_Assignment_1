@@ -1,46 +1,73 @@
-# Celebal Assignment 1
+# Machine Learning Foundations — Week 1 Assignment
 
-## 📌 Project Overview
-This repository contains my Week 1 assignment for the Celebal Technologies Internship Program.
+This repository contains the completed **Week 1 Assignment** covering fundamental math, statistics, and programming building blocks required for **Machine Learning and Data Science**.
 
-The assignment demonstrates Python concepts including:
-- Python Basics
-- Functions
-- OOPs Concepts
-- Python Libraries & Modules
-- PEP-8 Coding Style
+## 🚀 Topics Covered
 
----
+### Python Fundamentals
+- Control flow
+- Custom exceptions
+- Data structures
+- Lambda functions
 
-## 📂 Files in Repository
+### NumPy
+- Multi-dimensional array manipulation
+- Boolean indexing
+- Array slicing
+- Matrix operations
 
-- `week1_Anshika_Jain.ipynb` → Jupyter Notebook containing the assignment code
-- `README.md` → Project documentation
+### Pandas
+- Data loading
+- Data filtering
+- GroupBy aggregation
+- Handling missing values
 
----
+### Linear Algebra
+- Matrix multiplication
+- L2 norm visualization
+- Eigenvalues & Eigenvectors
+- Singular Value Decomposition (SVD)
 
-## 🚀 Technologies Used
+### Statistics & Probability
+- Descriptive Statistics
+- Hypothesis Testing (t-test, Pearson correlation)
+- Error Metrics from Scratch:
+  - MAE
+  - MSE
+  - R² Score
+- Central Limit Theorem (CLT)
+- Bayes' Theorem
 
-- Python
-- Jupyter Notebook
-- NumPy
-- Pandas
+## 📂 Repository Layout
 
----
+- `week1_Anshika_Jain.ipynb` → Core notebook containing code solutions and theoretical explanations.
+- `README.md` → Project documentation.
 
-## 🎯 Objective
+## 🛠️ Setup Instructions
 
-The objective of this assignment is to practice Python fundamentals and implement concepts learned during Week 1 of the Celebal Technologies Internship.
+### Clone the repository
 
----
+```bash
+git clone https://github.com/anshikka-garg/Celebal_Assignment_1.git
+cd Celebal_Assignment_1
+```
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run the notebook
+
+Open Jupyter Notebook and run:
+
+```bash
+week1_Anshika_Jain.ipynb
+```
 
 ## 👩‍💻 Author
 
-**Anshika Garg**
+**Anshika Garg**  
 
-GitHub: [anshikka-garg](https://github.com/anshikka-garg)
-
----
-
-## ⭐ Celebal Technologies Internship
-This project is submitted as part of the Celebal Technologies Internship Program.
+GitHub: https://github.com/anshikka-garg
